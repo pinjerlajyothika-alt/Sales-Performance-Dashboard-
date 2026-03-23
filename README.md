@@ -23,12 +23,12 @@ This project is a complete end-to-end business intelligence solution built to an
 
 | # | Question | Key Finding |
 |---|---------|------------|
-| 1️⃣ | **Building the Connections** — Connect data tables into a model | Star schema built with 4 tables and 5 relationships |
-| 2️⃣ | **What drives our sales?** — Top vs lowest products and regions | Mountain Bikes (61%) + Australia (31%) drive all revenue |
-| 3️⃣ | **Who are our customers?** — Segment by income, behaviour, education | Professional, Bachelor educated, $60K-$80K income in Australia |
-| 4️⃣ | **Where are the delays?** — Shipping process and delivery times | 7-day avg, 100% on-time delivery, zero late orders |
-| 5️⃣ | **Sales Performance** — Trends over time with drill-downs | 2013 peak at $16.4M = 55.7% of 4-year revenue |
-| 6️⃣ | **Customer Behaviour** — Demographic insights and patterns | Professionals drive 34%, Bachelors drive 34% of revenue |
+| 1️ | **Building the Connections** — Connect data tables into a model | Star schema built with 4 tables and 5 relationships |
+| 2️ | **What drives our sales?** — Top vs lowest products and regions | Mountain Bikes (61%) + Australia (31%) drive all revenue |
+| 3️ | **Who are our customers?** — Segment by income, behaviour, education | Professional, Bachelor educated, $60K-$80K income in Australia |
+| 4️ | **Where are the delays?** — Shipping process and delivery times | 7-day avg, 100% on-time delivery, zero late orders |
+| 5️ | **Sales Performance** — Trends over time with drill-downs | 2013 peak at $16.4M = 55.7% of 4-year revenue |
+| 6️ | **Customer Behaviour** — Demographic insights and patterns | Professionals drive 34%, Bachelors drive 34% of revenue |
 
 ---
 
